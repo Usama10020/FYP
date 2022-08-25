@@ -1,0 +1,43 @@
+.usernav {
+  z-index: 1000;
+  background-color: white;
+  padding: 1vmax;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid rgba(43, 43, 43, 0.137);
+}
+
+.userlogo {
+  background-color: white;
+  color: #57baed;
+  border-radius: 20px;
+  position: relative;
+  right: 15vmax;
+  font-size: xx-large;
+}
+
+.usernavlinks {
+  color: rgb(59, 59, 59);
+  text-decoration: none;
+  margin: 1vmax 1.2vmax;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 1.1vmax;
+}
+
+.usernavlinks:hover {
+  color: #57baed;
+  text-decoration: none;
+}
+
+.uusericon {
+  position: relative;
+  left: 15vmax;
+}
+.uubuttonusericon {
+  background-color: white;
+  border-radius: 50%;
+  border: none;
+}

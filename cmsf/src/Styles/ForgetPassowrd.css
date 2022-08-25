@@ -1,0 +1,8 @@
+.uform-gap {
+  padding-top: 150px;
+}
+.uform-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
